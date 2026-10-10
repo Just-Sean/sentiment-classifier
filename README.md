@@ -1,5 +1,6 @@
 # Sentiment Classifier
 Semester project for CS 345. Building a sentiment classifier for Amazon reviews data. 
+https://amazon-reviews-2023.github.io/
 
 # To-Do
 - [ ] Enumerate tools, processes, and guidelines to use for each of the following 5 phases
