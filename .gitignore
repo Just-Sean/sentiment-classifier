@@ -1,0 +1,11 @@
+# Dataset files (too large for GitHub; download locally instead)
+data/
+*.jsonl
+*.jsonl.gz
+*.parquet
+*.csv
+
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
